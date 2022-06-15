@@ -1,5 +1,6 @@
-# quiz-app
-At first you have to give your name as a String then the quiz will start when you click on the button below. For each question there are 15 seconds of time. If you cannot complete the question then it will automatically go to next question. When you click on any answer you can see that if the answer is wrong or correct.
+# quiz-app (Flutter)
+
+At first you have to give your name as a String then the quiz will start when you click on the button below. For each question there are 15 seconds of time. If you cannot complete the question then it will automatically go to next question. When you click on any of the answer you can see that if the answer is wrong or correct.
 
 There are some of the screenshot of the quiz application...
 
